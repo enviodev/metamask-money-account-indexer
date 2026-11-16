@@ -1,0 +1,1169 @@
+{
+  "endBlock": 122726000,
+  "totals": {
+    "id": "monad",
+    "wallets": 83375,
+    "holders": 69374,
+    "shareSupply": "60044007367598",
+    "deposits": 198432,
+    "withdrawals": 77009,
+    "lastBlock": 122725997
+  },
+  "days": [
+    {
+      "id": "2026-06-02",
+      "newWallets": 1,
+      "deposits": 2,
+      "sharesMinted": "100099899",
+      "sharesBurned": "0"
+    },
+    {
+      "id": "2026-06-03",
+      "newWallets": 1,
+      "deposits": 1,
+      "sharesMinted": "1899998",
+      "sharesBurned": "1899998"
+    },
+    {
+      "id": "2026-06-05",
+      "newWallets": 3,
+      "deposits": 4,
+      "sharesMinted": "1120411",
+      "sharesBurned": "1000000"
+    },
+    {
+      "id": "2026-06-08",
+      "newWallets": 8,
+      "deposits": 11,
+      "sharesMinted": "33678087",
+      "sharesBurned": "10100000"
+    },
+    {
+      "id": "2026-06-09",
+      "newWallets": 10,
+      "deposits": 33,
+      "sharesMinted": "57186653",
+      "sharesBurned": "6345112"
+    },
+    {
+      "id": "2026-06-10",
+      "newWallets": 5,
+      "deposits": 23,
+      "sharesMinted": "19670708",
+      "sharesBurned": "10134003"
+    },
+    {
+      "id": "2026-06-11",
+      "newWallets": 2,
+      "deposits": 47,
+      "sharesMinted": "37122369",
+      "sharesBurned": "20234982"
+    },
+    {
+      "id": "2026-06-12",
+      "newWallets": 6,
+      "deposits": 41,
+      "sharesMinted": "165958467",
+      "sharesBurned": "42342530"
+    },
+    {
+      "id": "2026-06-13",
+      "newWallets": 0,
+      "deposits": 9,
+      "sharesMinted": "5890067",
+      "sharesBurned": "681247"
+    },
+    {
+      "id": "2026-06-14",
+      "newWallets": 1,
+      "deposits": 7,
+      "sharesMinted": "43422102",
+      "sharesBurned": "6088617"
+    },
+    {
+      "id": "2026-06-15",
+      "newWallets": 6,
+      "deposits": 42,
+      "sharesMinted": "181950859",
+      "sharesBurned": "133418563"
+    },
+    {
+      "id": "2026-06-16",
+      "newWallets": 3,
+      "deposits": 62,
+      "sharesMinted": "119487508",
+      "sharesBurned": "82372635"
+    },
+    {
+      "id": "2026-06-17",
+      "newWallets": 6,
+      "deposits": 64,
+      "sharesMinted": "2195128208",
+      "sharesBurned": "23992809"
+    },
+    {
+      "id": "2026-06-18",
+      "newWallets": 3,
+      "deposits": 62,
+      "sharesMinted": "144501257",
+      "sharesBurned": "20776510"
+    },
+    {
+      "id": "2026-06-19",
+      "newWallets": 0,
+      "deposits": 51,
+      "sharesMinted": "128721812",
+      "sharesBurned": "61263792"
+    },
+    {
+      "id": "2026-06-20",
+      "newWallets": 0,
+      "deposits": 12,
+      "sharesMinted": "15459008",
+      "sharesBurned": "3999257"
+    },
+    {
+      "id": "2026-06-21",
+      "newWallets": 2,
+      "deposits": 5,
+      "sharesMinted": "7663042",
+      "sharesBurned": "0"
+    },
+    {
+      "id": "2026-06-22",
+      "newWallets": 2,
+      "deposits": 28,
+      "sharesMinted": "260234295",
+      "sharesBurned": "13320394"
+    },
+    {
+      "id": "2026-06-23",
+      "newWallets": 4,
+      "deposits": 46,
+      "sharesMinted": "1884587372",
+      "sharesBurned": "30187638"
+    },
+    {
+      "id": "2026-06-24",
+      "newWallets": 2,
+      "deposits": 47,
+      "sharesMinted": "56511718",
+      "sharesBurned": "42223351"
+    },
+    {
+      "id": "2026-06-25",
+      "newWallets": 2,
+      "deposits": 81,
+      "sharesMinted": "779945818",
+      "sharesBurned": "164606929"
+    },
+    {
+      "id": "2026-06-26",
+      "newWallets": 3,
+      "deposits": 64,
+      "sharesMinted": "889419782",
+      "sharesBurned": "333845473"
+    },
+    {
+      "id": "2026-06-27",
+      "newWallets": 0,
+      "deposits": 4,
+      "sharesMinted": "1559040",
+      "sharesBurned": "0"
+    },
+    {
+      "id": "2026-06-28",
+      "newWallets": 0,
+      "deposits": 9,
+      "sharesMinted": "10519353",
+      "sharesBurned": "3616748"
+    },
+    {
+      "id": "2026-06-29",
+      "newWallets": 1,
+      "deposits": 25,
+      "sharesMinted": "544620833",
+      "sharesBurned": "42227031"
+    },
+    {
+      "id": "2026-06-30",
+      "newWallets": 5,
+      "deposits": 53,
+      "sharesMinted": "244868592",
+      "sharesBurned": "107755390"
+    },
+    {
+      "id": "2026-07-01",
+      "newWallets": 12,
+      "deposits": 26,
+      "sharesMinted": "1442273001",
+      "sharesBurned": "2060445"
+    },
+    {
+      "id": "2026-07-02",
+      "newWallets": 20,
+      "deposits": 49,
+      "sharesMinted": "1021898073047",
+      "sharesBurned": "1635793785"
+    },
+    {
+      "id": "2026-07-03",
+      "newWallets": 67,
+      "deposits": 116,
+      "sharesMinted": "12715839784",
+      "sharesBurned": "11124154275"
+    },
+    {
+      "id": "2026-07-04",
+      "newWallets": 192,
+      "deposits": 327,
+      "sharesMinted": "552220126099",
+      "sharesBurned": "450469668748"
+    },
+    {
+      "id": "2026-07-05",
+      "newWallets": 317,
+      "deposits": 481,
+      "sharesMinted": "178900078615",
+      "sharesBurned": "16608160391"
+    },
+    {
+      "id": "2026-07-06",
+      "newWallets": 410,
+      "deposits": 605,
+      "sharesMinted": "254926006207",
+      "sharesBurned": "129952405745"
+    },
+    {
+      "id": "2026-07-07",
+      "newWallets": 567,
+      "deposits": 893,
+      "sharesMinted": "141648817716",
+      "sharesBurned": "23042482661"
+    },
+    {
+      "id": "2026-07-08",
+      "newWallets": 572,
+      "deposits": 897,
+      "sharesMinted": "467137438904",
+      "sharesBurned": "40225543862"
+    },
+    {
+      "id": "2026-07-09",
+      "newWallets": 755,
+      "deposits": 1253,
+      "sharesMinted": "649025561030",
+      "sharesBurned": "76573302995"
+    },
+    {
+      "id": "2026-07-10",
+      "newWallets": 565,
+      "deposits": 1036,
+      "sharesMinted": "591156814928",
+      "sharesBurned": "272932115454"
+    },
+    {
+      "id": "2026-07-11",
+      "newWallets": 540,
+      "deposits": 982,
+      "sharesMinted": "597371972415",
+      "sharesBurned": "430525733521"
+    },
+    {
+      "id": "2026-07-12",
+      "newWallets": 467,
+      "deposits": 833,
+      "sharesMinted": "473356817564",
+      "sharesBurned": "185000133984"
+    },
+    {
+      "id": "2026-07-13",
+      "newWallets": 460,
+      "deposits": 829,
+      "sharesMinted": "514538045943",
+      "sharesBurned": "262414833119"
+    },
+    {
+      "id": "2026-07-14",
+      "newWallets": 486,
+      "deposits": 867,
+      "sharesMinted": "718001422802",
+      "sharesBurned": "381937740966"
+    },
+    {
+      "id": "2026-07-15",
+      "newWallets": 516,
+      "deposits": 956,
+      "sharesMinted": "707544395810",
+      "sharesBurned": "491707569505"
+    },
+    {
+      "id": "2026-07-16",
+      "newWallets": 481,
+      "deposits": 932,
+      "sharesMinted": "1110069469458",
+      "sharesBurned": "922154128264"
+    },
+    {
+      "id": "2026-07-17",
+      "newWallets": 498,
+      "deposits": 962,
+      "sharesMinted": "1741449388727",
+      "sharesBurned": "1143028339976"
+    },
+    {
+      "id": "2026-07-18",
+      "newWallets": 495,
+      "deposits": 932,
+      "sharesMinted": "1700805371839",
+      "sharesBurned": "1177961407746"
+    },
+    {
+      "id": "2026-07-19",
+      "newWallets": 549,
+      "deposits": 1027,
+      "sharesMinted": "1967016103820",
+      "sharesBurned": "1456259928663"
+    },
+    {
+      "id": "2026-07-20",
+      "newWallets": 406,
+      "deposits": 901,
+      "sharesMinted": "1407591050054",
+      "sharesBurned": "1514125875997"
+    },
+    {
+      "id": "2026-07-21",
+      "newWallets": 408,
+      "deposits": 887,
+      "sharesMinted": "1389200431786",
+      "sharesBurned": "1320954143060"
+    },
+    {
+      "id": "2026-07-22",
+      "newWallets": 493,
+      "deposits": 953,
+      "sharesMinted": "956210091497",
+      "sharesBurned": "740653916634"
+    },
+    {
+      "id": "2026-07-23",
+      "newWallets": 438,
+      "deposits": 883,
+      "sharesMinted": "927662918614",
+      "sharesBurned": "677742036580"
+    },
+    {
+      "id": "2026-07-24",
+      "newWallets": 375,
+      "deposits": 785,
+      "sharesMinted": "874679807580",
+      "sharesBurned": "469703880176"
+    },
+    {
+      "id": "2026-07-25",
+      "newWallets": 395,
+      "deposits": 766,
+      "sharesMinted": "161624141113",
+      "sharesBurned": "50276084738"
+    },
+    {
+      "id": "2026-07-26",
+      "newWallets": 362,
+      "deposits": 695,
+      "sharesMinted": "462401750273",
+      "sharesBurned": "32978306727"
+    },
+    {
+      "id": "2026-07-27",
+      "newWallets": 387,
+      "deposits": 729,
+      "sharesMinted": "405799074120",
+      "sharesBurned": "146617187718"
+    },
+    {
+      "id": "2026-07-28",
+      "newWallets": 368,
+      "deposits": 782,
+      "sharesMinted": "235582121260",
+      "sharesBurned": "149204422084"
+    },
+    {
+      "id": "2026-07-29",
+      "newWallets": 383,
+      "deposits": 821,
+      "sharesMinted": "443453652270",
+      "sharesBurned": "101740839118"
+    },
+    {
+      "id": "2026-07-30",
+      "newWallets": 352,
+      "deposits": 763,
+      "sharesMinted": "237512747693",
+      "sharesBurned": "278257548839"
+    },
+    {
+      "id": "2026-07-31",
+      "newWallets": 360,
+      "deposits": 739,
+      "sharesMinted": "485799111827",
+      "sharesBurned": "57172678344"
+    },
+    {
+      "id": "2026-08-01",
+      "newWallets": 334,
+      "deposits": 724,
+      "sharesMinted": "987515539137",
+      "sharesBurned": "101755664448"
+    },
+    {
+      "id": "2026-08-02",
+      "newWallets": 367,
+      "deposits": 744,
+      "sharesMinted": "364525711340",
+      "sharesBurned": "88166361550"
+    },
+    {
+      "id": "2026-08-03",
+      "newWallets": 361,
+      "deposits": 788,
+      "sharesMinted": "327117662706",
+      "sharesBurned": "249918566249"
+    },
+    {
+      "id": "2026-08-04",
+      "newWallets": 390,
+      "deposits": 812,
+      "sharesMinted": "710331852836",
+      "sharesBurned": "183325430447"
+    },
+    {
+      "id": "2026-08-05",
+      "newWallets": 462,
+      "deposits": 954,
+      "sharesMinted": "387439273021",
+      "sharesBurned": "182667330814"
+    },
+    {
+      "id": "2026-08-06",
+      "newWallets": 397,
+      "deposits": 858,
+      "sharesMinted": "526495665644",
+      "sharesBurned": "99940802513"
+    },
+    {
+      "id": "2026-08-07",
+      "newWallets": 424,
+      "deposits": 861,
+      "sharesMinted": "251820941312",
+      "sharesBurned": "196943957878"
+    },
+    {
+      "id": "2026-08-08",
+      "newWallets": 461,
+      "deposits": 939,
+      "sharesMinted": "746304731270",
+      "sharesBurned": "125176244029"
+    },
+    {
+      "id": "2026-08-09",
+      "newWallets": 430,
+      "deposits": 912,
+      "sharesMinted": "2178626380912",
+      "sharesBurned": "190608216785"
+    },
+    {
+      "id": "2026-08-10",
+      "newWallets": 486,
+      "deposits": 914,
+      "sharesMinted": "468118044109",
+      "sharesBurned": "114859775449"
+    },
+    {
+      "id": "2026-08-11",
+      "newWallets": 442,
+      "deposits": 921,
+      "sharesMinted": "800605674744",
+      "sharesBurned": "76978326694"
+    },
+    {
+      "id": "2026-08-12",
+      "newWallets": 423,
+      "deposits": 903,
+      "sharesMinted": "382177937615",
+      "sharesBurned": "420472068582"
+    },
+    {
+      "id": "2026-08-13",
+      "newWallets": 379,
+      "deposits": 847,
+      "sharesMinted": "271588741819",
+      "sharesBurned": "88227558904"
+    },
+    {
+      "id": "2026-08-14",
+      "newWallets": 363,
+      "deposits": 829,
+      "sharesMinted": "247246818179",
+      "sharesBurned": "316231713738"
+    },
+    {
+      "id": "2026-08-15",
+      "newWallets": 331,
+      "deposits": 819,
+      "sharesMinted": "217795485078",
+      "sharesBurned": "124821997204"
+    },
+    {
+      "id": "2026-08-16",
+      "newWallets": 356,
+      "deposits": 772,
+      "sharesMinted": "163387126591",
+      "sharesBurned": "37578878388"
+    },
+    {
+      "id": "2026-08-17",
+      "newWallets": 392,
+      "deposits": 862,
+      "sharesMinted": "499152303366",
+      "sharesBurned": "105609203820"
+    },
+    {
+      "id": "2026-08-18",
+      "newWallets": 434,
+      "deposits": 1039,
+      "sharesMinted": "454046120969",
+      "sharesBurned": "177530125140"
+    },
+    {
+      "id": "2026-08-19",
+      "newWallets": 513,
+      "deposits": 1219,
+      "sharesMinted": "1154043945121",
+      "sharesBurned": "166930351959"
+    },
+    {
+      "id": "2026-08-20",
+      "newWallets": 592,
+      "deposits": 1287,
+      "sharesMinted": "952544807307",
+      "sharesBurned": "487009625374"
+    },
+    {
+      "id": "2026-08-21",
+      "newWallets": 770,
+      "deposits": 1625,
+      "sharesMinted": "2071788444312",
+      "sharesBurned": "1131490567409"
+    },
+    {
+      "id": "2026-08-22",
+      "newWallets": 718,
+      "deposits": 1477,
+      "sharesMinted": "808342247677",
+      "sharesBurned": "349065707242"
+    },
+    {
+      "id": "2026-08-23",
+      "newWallets": 693,
+      "deposits": 1384,
+      "sharesMinted": "713713740618",
+      "sharesBurned": "188716528325"
+    },
+    {
+      "id": "2026-08-24",
+      "newWallets": 640,
+      "deposits": 1440,
+      "sharesMinted": "514151035025",
+      "sharesBurned": "237635044022"
+    },
+    {
+      "id": "2026-08-25",
+      "newWallets": 667,
+      "deposits": 1467,
+      "sharesMinted": "901464269978",
+      "sharesBurned": "421038657949"
+    },
+    {
+      "id": "2026-08-26",
+      "newWallets": 608,
+      "deposits": 1433,
+      "sharesMinted": "546904257911",
+      "sharesBurned": "200474808813"
+    },
+    {
+      "id": "2026-08-27",
+      "newWallets": 581,
+      "deposits": 1319,
+      "sharesMinted": "567370253627",
+      "sharesBurned": "781867426813"
+    },
+    {
+      "id": "2026-08-28",
+      "newWallets": 572,
+      "deposits": 1275,
+      "sharesMinted": "837236316747",
+      "sharesBurned": "176090915035"
+    },
+    {
+      "id": "2026-08-29",
+      "newWallets": 474,
+      "deposits": 1035,
+      "sharesMinted": "546464438908",
+      "sharesBurned": "255449474042"
+    },
+    {
+      "id": "2026-08-30",
+      "newWallets": 475,
+      "deposits": 1067,
+      "sharesMinted": "491148502606",
+      "sharesBurned": "272356329489"
+    },
+    {
+      "id": "2026-08-31",
+      "newWallets": 514,
+      "deposits": 1247,
+      "sharesMinted": "673296954070",
+      "sharesBurned": "350787122143"
+    },
+    {
+      "id": "2026-09-01",
+      "newWallets": 544,
+      "deposits": 1237,
+      "sharesMinted": "1190216158754",
+      "sharesBurned": "130576357252"
+    },
+    {
+      "id": "2026-09-02",
+      "newWallets": 524,
+      "deposits": 1174,
+      "sharesMinted": "493007283633",
+      "sharesBurned": "411798026512"
+    },
+    {
+      "id": "2026-09-03",
+      "newWallets": 601,
+      "deposits": 1360,
+      "sharesMinted": "1195244423704",
+      "sharesBurned": "843406243305"
+    },
+    {
+      "id": "2026-09-04",
+      "newWallets": 625,
+      "deposits": 1298,
+      "sharesMinted": "450330227522",
+      "sharesBurned": "439585752914"
+    },
+    {
+      "id": "2026-09-05",
+      "newWallets": 528,
+      "deposits": 1120,
+      "sharesMinted": "388576760582",
+      "sharesBurned": "607708953694"
+    },
+    {
+      "id": "2026-09-06",
+      "newWallets": 502,
+      "deposits": 1146,
+      "sharesMinted": "981347282511",
+      "sharesBurned": "612625396673"
+    },
+    {
+      "id": "2026-09-07",
+      "newWallets": 558,
+      "deposits": 1275,
+      "sharesMinted": "521285673004",
+      "sharesBurned": "757625137037"
+    },
+    {
+      "id": "2026-09-08",
+      "newWallets": 665,
+      "deposits": 1486,
+      "sharesMinted": "771667630535",
+      "sharesBurned": "495961398416"
+    },
+    {
+      "id": "2026-09-09",
+      "newWallets": 691,
+      "deposits": 1522,
+      "sharesMinted": "709941646561",
+      "sharesBurned": "386349842343"
+    },
+    {
+      "id": "2026-09-10",
+      "newWallets": 726,
+      "deposits": 1634,
+      "sharesMinted": "1691777541704",
+      "sharesBurned": "439247696551"
+    },
+    {
+      "id": "2026-09-11",
+      "newWallets": 673,
+      "deposits": 1539,
+      "sharesMinted": "1608446418563",
+      "sharesBurned": "439267688022"
+    },
+    {
+      "id": "2026-09-12",
+      "newWallets": 630,
+      "deposits": 1579,
+      "sharesMinted": "3996542441600",
+      "sharesBurned": "2495393420162"
+    },
+    {
+      "id": "2026-09-13",
+      "newWallets": 616,
+      "deposits": 1662,
+      "sharesMinted": "5321550402539",
+      "sharesBurned": "6328855535513"
+    },
+    {
+      "id": "2026-09-14",
+      "newWallets": 582,
+      "deposits": 1420,
+      "sharesMinted": "2674607783772",
+      "sharesBurned": "2299258863927"
+    },
+    {
+      "id": "2026-09-15",
+      "newWallets": 670,
+      "deposits": 1528,
+      "sharesMinted": "2246613292383",
+      "sharesBurned": "1318322514675"
+    },
+    {
+      "id": "2026-09-16",
+      "newWallets": 650,
+      "deposits": 1570,
+      "sharesMinted": "828166132375",
+      "sharesBurned": "884513594913"
+    },
+    {
+      "id": "2026-09-17",
+      "newWallets": 839,
+      "deposits": 1906,
+      "sharesMinted": "6103665057185",
+      "sharesBurned": "3919974962036"
+    },
+    {
+      "id": "2026-09-18",
+      "newWallets": 958,
+      "deposits": 2140,
+      "sharesMinted": "2086663265849",
+      "sharesBurned": "642877421062"
+    },
+    {
+      "id": "2026-09-19",
+      "newWallets": 855,
+      "deposits": 2062,
+      "sharesMinted": "1347011368636",
+      "sharesBurned": "514878724506"
+    },
+    {
+      "id": "2026-09-20",
+      "newWallets": 754,
+      "deposits": 1764,
+      "sharesMinted": "620962038011",
+      "sharesBurned": "535055423698"
+    },
+    {
+      "id": "2026-09-21",
+      "newWallets": 897,
+      "deposits": 2218,
+      "sharesMinted": "1816592482971",
+      "sharesBurned": "1042856895166"
+    },
+    {
+      "id": "2026-09-22",
+      "newWallets": 862,
+      "deposits": 2155,
+      "sharesMinted": "1523961037431",
+      "sharesBurned": "1398803418962"
+    },
+    {
+      "id": "2026-09-23",
+      "newWallets": 758,
+      "deposits": 1931,
+      "sharesMinted": "1306187011512",
+      "sharesBurned": "400911135267"
+    },
+    {
+      "id": "2026-09-24",
+      "newWallets": 689,
+      "deposits": 1760,
+      "sharesMinted": "1455240647167",
+      "sharesBurned": "552388740086"
+    },
+    {
+      "id": "2026-09-25",
+      "newWallets": 716,
+      "deposits": 1877,
+      "sharesMinted": "481096553283",
+      "sharesBurned": "933066972159"
+    },
+    {
+      "id": "2026-09-26",
+      "newWallets": 738,
+      "deposits": 1822,
+      "sharesMinted": "530283603085",
+      "sharesBurned": "366248897185"
+    },
+    {
+      "id": "2026-09-27",
+      "newWallets": 700,
+      "deposits": 1751,
+      "sharesMinted": "768072503827",
+      "sharesBurned": "1469480733346"
+    },
+    {
+      "id": "2026-09-28",
+      "newWallets": 642,
+      "deposits": 1553,
+      "sharesMinted": "638848061142",
+      "sharesBurned": "888975429000"
+    },
+    {
+      "id": "2026-09-29",
+      "newWallets": 707,
+      "deposits": 1782,
+      "sharesMinted": "1163155638245",
+      "sharesBurned": "588754872226"
+    },
+    {
+      "id": "2026-09-30",
+      "newWallets": 779,
+      "deposits": 1901,
+      "sharesMinted": "3606137904537",
+      "sharesBurned": "536431396398"
+    },
+    {
+      "id": "2026-10-01",
+      "newWallets": 742,
+      "deposits": 1831,
+      "sharesMinted": "1055831159141",
+      "sharesBurned": "1546950315758"
+    },
+    {
+      "id": "2026-10-02",
+      "newWallets": 787,
+      "deposits": 1899,
+      "sharesMinted": "711841481317",
+      "sharesBurned": "697974529933"
+    },
+    {
+      "id": "2026-10-03",
+      "newWallets": 719,
+      "deposits": 1901,
+      "sharesMinted": "1003129571074",
+      "sharesBurned": "388582885939"
+    },
+    {
+      "id": "2026-10-04",
+      "newWallets": 755,
+      "deposits": 1912,
+      "sharesMinted": "785354824639",
+      "sharesBurned": "453000689264"
+    },
+    {
+      "id": "2026-10-05",
+      "newWallets": 681,
+      "deposits": 1737,
+      "sharesMinted": "892538794755",
+      "sharesBurned": "793386178618"
+    },
+    {
+      "id": "2026-10-06",
+      "newWallets": 714,
+      "deposits": 1777,
+      "sharesMinted": "724707584015",
+      "sharesBurned": "1153162578509"
+    },
+    {
+      "id": "2026-10-07",
+      "newWallets": 699,
+      "deposits": 1845,
+      "sharesMinted": "1886321571766",
+      "sharesBurned": "1582956269579"
+    },
+    {
+      "id": "2026-10-08",
+      "newWallets": 837,
+      "deposits": 2043,
+      "sharesMinted": "2269139690349",
+      "sharesBurned": "962105488059"
+    },
+    {
+      "id": "2026-10-09",
+      "newWallets": 701,
+      "deposits": 1789,
+      "sharesMinted": "661816237371",
+      "sharesBurned": "750615811305"
+    },
+    {
+      "id": "2026-10-10",
+      "newWallets": 640,
+      "deposits": 1824,
+      "sharesMinted": "1115662005004",
+      "sharesBurned": "667771869878"
+    },
+    {
+      "id": "2026-10-11",
+      "newWallets": 669,
+      "deposits": 1738,
+      "sharesMinted": "954244982868",
+      "sharesBurned": "698624451655"
+    },
+    {
+      "id": "2026-10-12",
+      "newWallets": 670,
+      "deposits": 1797,
+      "sharesMinted": "585271399570",
+      "sharesBurned": "396782934854"
+    },
+    {
+      "id": "2026-10-13",
+      "newWallets": 602,
+      "deposits": 1679,
+      "sharesMinted": "1397362661096",
+      "sharesBurned": "1214224831335"
+    },
+    {
+      "id": "2026-10-14",
+      "newWallets": 618,
+      "deposits": 1739,
+      "sharesMinted": "1003960392018",
+      "sharesBurned": "885285867153"
+    },
+    {
+      "id": "2026-10-15",
+      "newWallets": 654,
+      "deposits": 1785,
+      "sharesMinted": "632419094415",
+      "sharesBurned": "625741579707"
+    },
+    {
+      "id": "2026-10-16",
+      "newWallets": 678,
+      "deposits": 1804,
+      "sharesMinted": "522127295974",
+      "sharesBurned": "401664031817"
+    },
+    {
+      "id": "2026-10-17",
+      "newWallets": 684,
+      "deposits": 1898,
+      "sharesMinted": "532570797000",
+      "sharesBurned": "194293608986"
+    },
+    {
+      "id": "2026-10-18",
+      "newWallets": 657,
+      "deposits": 1805,
+      "sharesMinted": "628416671098",
+      "sharesBurned": "297283693289"
+    },
+    {
+      "id": "2026-10-19",
+      "newWallets": 596,
+      "deposits": 1670,
+      "sharesMinted": "673561402757",
+      "sharesBurned": "707549215438"
+    },
+    {
+      "id": "2026-10-20",
+      "newWallets": 678,
+      "deposits": 1944,
+      "sharesMinted": "507571336110",
+      "sharesBurned": "466104434225"
+    },
+    {
+      "id": "2026-10-21",
+      "newWallets": 753,
+      "deposits": 1929,
+      "sharesMinted": "752222137912",
+      "sharesBurned": "571670522346"
+    },
+    {
+      "id": "2026-10-22",
+      "newWallets": 732,
+      "deposits": 1996,
+      "sharesMinted": "483061052732",
+      "sharesBurned": "308751850759"
+    },
+    {
+      "id": "2026-10-23",
+      "newWallets": 798,
+      "deposits": 2193,
+      "sharesMinted": "799545940922",
+      "sharesBurned": "587476850450"
+    },
+    {
+      "id": "2026-10-24",
+      "newWallets": 740,
+      "deposits": 2035,
+      "sharesMinted": "374119719678",
+      "sharesBurned": "350647409085"
+    },
+    {
+      "id": "2026-10-25",
+      "newWallets": 779,
+      "deposits": 2066,
+      "sharesMinted": "435543227976",
+      "sharesBurned": "241764311302"
+    },
+    {
+      "id": "2026-10-26",
+      "newWallets": 818,
+      "deposits": 2091,
+      "sharesMinted": "558036794911",
+      "sharesBurned": "531780209926"
+    },
+    {
+      "id": "2026-10-27",
+      "newWallets": 808,
+      "deposits": 2106,
+      "sharesMinted": "985699414078",
+      "sharesBurned": "466896002115"
+    },
+    {
+      "id": "2026-10-28",
+      "newWallets": 782,
+      "deposits": 2105,
+      "sharesMinted": "1335191026026",
+      "sharesBurned": "554254233578"
+    },
+    {
+      "id": "2026-10-29",
+      "newWallets": 830,
+      "deposits": 2073,
+      "sharesMinted": "611964371795",
+      "sharesBurned": "649980625892"
+    },
+    {
+      "id": "2026-10-30",
+      "newWallets": 891,
+      "deposits": 2318,
+      "sharesMinted": "1200923090607",
+      "sharesBurned": "1521280973057"
+    },
+    {
+      "id": "2026-10-31",
+      "newWallets": 791,
+      "deposits": 2122,
+      "sharesMinted": "1545184515678",
+      "sharesBurned": "1352830123604"
+    },
+    {
+      "id": "2026-11-01",
+      "newWallets": 788,
+      "deposits": 2183,
+      "sharesMinted": "1741302994165",
+      "sharesBurned": "854104632062"
+    },
+    {
+      "id": "2026-11-02",
+      "newWallets": 758,
+      "deposits": 2068,
+      "sharesMinted": "1823960232567",
+      "sharesBurned": "1923594060973"
+    },
+    {
+      "id": "2026-11-03",
+      "newWallets": 772,
+      "deposits": 2293,
+      "sharesMinted": "1725060735340",
+      "sharesBurned": "1178262641949"
+    },
+    {
+      "id": "2026-11-04",
+      "newWallets": 796,
+      "deposits": 2074,
+      "sharesMinted": "795310647628",
+      "sharesBurned": "715377367513"
+    },
+    {
+      "id": "2026-11-05",
+      "newWallets": 889,
+      "deposits": 2233,
+      "sharesMinted": "1200977397718",
+      "sharesBurned": "876778839657"
+    },
+    {
+      "id": "2026-11-06",
+      "newWallets": 873,
+      "deposits": 2185,
+      "sharesMinted": "1417459525794",
+      "sharesBurned": "3342129911052"
+    },
+    {
+      "id": "2026-11-07",
+      "newWallets": 785,
+      "deposits": 2044,
+      "sharesMinted": "1047973345071",
+      "sharesBurned": "1107534823612"
+    },
+    {
+      "id": "2026-11-08",
+      "newWallets": 811,
+      "deposits": 2189,
+      "sharesMinted": "1505861757497",
+      "sharesBurned": "695948777773"
+    },
+    {
+      "id": "2026-11-09",
+      "newWallets": 768,
+      "deposits": 2004,
+      "sharesMinted": "1262465817013",
+      "sharesBurned": "1192425051236"
+    },
+    {
+      "id": "2026-11-10",
+      "newWallets": 822,
+      "deposits": 2133,
+      "sharesMinted": "1326504640348",
+      "sharesBurned": "807367565414"
+    },
+    {
+      "id": "2026-11-11",
+      "newWallets": 755,
+      "deposits": 2063,
+      "sharesMinted": "1252640510437",
+      "sharesBurned": "608687269991"
+    },
+    {
+      "id": "2026-11-12",
+      "newWallets": 822,
+      "deposits": 2231,
+      "sharesMinted": "1463935726636",
+      "sharesBurned": "831421662336"
+    },
+    {
+      "id": "2026-11-13",
+      "newWallets": 881,
+      "deposits": 2128,
+      "sharesMinted": "2245600390552",
+      "sharesBurned": "1096270646472"
+    },
+    {
+      "id": "2026-11-14",
+      "newWallets": 786,
+      "deposits": 2059,
+      "sharesMinted": "4351716579291",
+      "sharesBurned": "1062391308743"
+    },
+    {
+      "id": "2026-11-15",
+      "newWallets": 788,
+      "deposits": 1893,
+      "sharesMinted": "9076332506018",
+      "sharesBurned": "1175818462569"
+    },
+    {
+      "id": "2026-11-16",
+      "newWallets": 278,
+      "deposits": 716,
+      "sharesMinted": "3306712797539",
+      "sharesBurned": "717205640751"
+    }
+  ]
+}
